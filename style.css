@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+
+  .Header  {
+    background-color: #1f2937;
+  }
+
+  .Introduction {
+    background-color: #1f2937;
+  }
